@@ -1,0 +1,21 @@
+﻿Argentina,AR
+Australia,AU
+Austria,AT
+Belarus,BY
+Belgium,BE
+Brazil,BR
+Canada,CA
+China,CN
+Denmark,DK
+France,FR
+Germany,DE
+India,IN
+Italy,IT
+Netherlands,NL
+Russia,RU
+Spain,ES
+Sweden,SE
+United Kingdom,GB
+United States of America,US
+Poland,PL
+Luxembourg,LU

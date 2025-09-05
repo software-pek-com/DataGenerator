@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DataGenerator.Tests\**" />
+    <Compile Remove="DataGenerator\**" />
+    <EmbeddedResource Remove="DataGenerator.Tests\**" />
+    <EmbeddedResource Remove="DataGenerator\**" />
+    <None Remove="DataGenerator.Tests\**" />
+    <None Remove="DataGenerator\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CrypticWizard.RandomWordGenerator" Version="0.9.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="CsvHelper" Version="33.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="DataGenerator\DataGenerator.csproj" />
+  </ItemGroup>
+
+</Project>

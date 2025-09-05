@@ -1,0 +1,14 @@
+﻿## Ignore Visual Studio temporary files, build results.
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/

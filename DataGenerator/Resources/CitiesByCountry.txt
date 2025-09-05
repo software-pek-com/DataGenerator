@@ -1,0 +1,21 @@
+Argentina: Buenos Aires,Cordoba,La Plata,Mar del Plata,Mendoza,Rosario,Salta,Tucuman
+Australia: Adelaide,Brisbane,Gold Coast,Melbourne,Newcastle,Perth,Sydney
+Austria: Vienna
+Belarus: Minsk
+Belgium: Brussels,Arlon,Namur,Bruge,Ghent,Antwerp,Liege
+Brazil: Belem,Belo Horizonte,Brasilia,Campinas,Campo Grande,Contagem,Cuiaba,Curitiba,Duque de Caxias,Fortaleza,Goiania,Guarulhos,Jaboatao,Joao Pessoa,Maceio,Manaus,Natal,Nova Iguaçu,Osasco,Porto Alegre,Recife,Ribeirao Preto,Rio de Janeiro,Salvador,Santo Andre,Sao Bernardo do Campo,Sao Goncalo,Sao Jose dos Campos,Sao Luis,Sao Paulo,Sorocaba,Teresina,Uberlandia
+Canada: Calgary,Edmonton,Hamilton,Montreal,Ottawa,Quebec,Toronto,Vancouver,Winnipeg
+China: Anshan,Anyang,Baoding,Baotou,Bengbu,Benxi,Cangzhou,Changchun,Changde,Changsha,Changzhi,Changzhou,Chengdu,Chongqing,Dalian,Dandong,Datong,Foshan,Fushun,Fuxin,Fuzhou,Guangzhou,Guilin,Guiyang,Haikou,Handan,Hangzhou,Harbin,Hefei,Hegang,Hengyang,Hohhot,Huaibei,Huainan,Huaiyin,Huangshi,Jiamusi,Jiangmen,Jiaozuo,Jilin,Jinan,Jinzhou,Jiulong,Kaifeng,Kunming,Langfang,Lanzhou,Liaoyang,Liuzhou,Luancheng,Luoyang,Maanshan,Maoming,Mudanjiang,Nanchang,Nanjing,Nanning,Nantong,Neijiang,Ningbo,Panjin,Peking,Pingdingshan,Puyang,Qingdao,Qinhuangdao,Qiqihar,Rongcheng,Shanghai,Shantou,Shaoguan,Shaoyang,Shashi,Shatian,Shenyang,Shenzhen,Shihezi,Shijiazhuang,Siping,Suzhou,Taian,Taiyuan,Taizhou,Tanggu,Tangshan,Tianjin,Urumqi,Wenzhou,Wuhan,Wuhu,Wuxi,Xiamen,Xian,Xianggangdao,Xiangtan,Xianyang,Xingtai,Xining,Xinxiang,Xinyang,Xuzhou,Yancheng,Yangzhou,Yantai,Yingkou,Yuanlong,Yueyang,Zhangdian,Zhangjiakou,Zhangzhou,Zhanjiang,Zhengzhou,Zhenjiang,Zhuhai,Zhunmen,Zhuzhou,Zigong
+Denmark: Copenhagen
+France: Marseille,Paris,Metz,Strasbourg,Lille,Nancy,Lyon,Nice,Grenoble,Reims
+Germany: Berlin,Bremen,Cologne,Dortmund,Duisburg,Dusseldorf,Essen,Frankfurt,Hamburg,Hanover,Leipzig,Munich,Stuttgart
+India: Agra,Ahmadabad,Ajmer,Aligarh,Allahabad,Amravati,Amritsar,Asansol,Aurangabad,Bangalore,Bareli,Bhavnagar,Bhilai,Bhiwandi,Bhopal,Bhubaneswar,Bikaner,Bombay,Calcutta,Chandigarh,Dehra Dun,Delhi,Durgapur,Faridabad,Ghaziabad,Gorakhpur,Guntur,Guwahati,Gwalior,Haora,Hubli,Hyderabad,Indore,Jabalpur,Jaipur,Jalandhar,Jamnagar,Jamshedpur,Jodhpur,Kalyan,Kanpur,Kataka,Kochi,Kolhapur,Kota,Koyampattur,Lakhnau,Ludhiana,Madras,Madurai,Maisuru,Mira Bhayandar,Mirat,Moradabad,Nagpur,Nashik,Navi Mumbai,Patna,Pimpri,Pune,Raipur,Rajkot,Ranchi,Sangli-Miraj,Selam,Shiliguri,Sholapur,Srinagar,Surat,Thana,Thiruvananthapuram,Tiruchchirappalli,Ulhasnagar,Vadodara,Varanasi,Vijayawada,Visakhapatnam,Warangal
+Italy: Rome,Milan,Venice,Naples,Piza,Monteroni D'Arbia,Livorno
+Netherlands: Amsterdam,Rotterdam,Eindhoven,Maastricht
+Russia: Astrakhan,Barnaul,Chelyabinsk,Irkutsk,Izhevsk,Kazan,Khabarovsk,Krasnodar,Krasnoyarsk,Lipetsk,Makhachkala,Moscow,Naberezhnyye Chelny,Nizhniy Novgorod,Novokuznetsk,Novosibirsk,Omsk,Orenburg,Penza,Perm,Rostov-na-Donu,Ryazan,Saint Petersburg,Samara,Saratov,Tolyatti,Tyumen,Ufa,Ulyanovsk,Vladivostok,Volgograd,Voronezh,Yaroslavl,Yekaterinburg
+Spain: Barcelona,Madrid,Malaga,Sevilla,Valencia,Zaragoza
+Sweden: Goteborg,Stockholm
+United Kingdom: Birmingham,Glasgow,London,Manchester,Oxford,Bath,Leeds,Nottingham,Edinburgh
+United States of America: Austin,Baltimore,Boston,Charlotte,Chicago,Columbus,Dallas,Denver,Detroit,El Paso,Fort Worth,Houston,Indianapolis,Jacksonville,Las Vegas,Los Angeles,Memphis,Milwaukee,Nashville,New York,Oklahoma City,Philadelphia,Phoenix,Portland,San Antonio,San Diego,San Francisco,San Jose,Seattle,Tucson,Washington
+Poland: Warsaw,Lublin,Poznan,Wroclaw,Krakow,Radom,Gdansk,Lodz,Pulawy,Zakopane,Katowice,Kazimierz Dolny,Gizycko
+Luxembourg: Luxembourg,Mamer,Capellen,Mersch,Junglinster,Schengen,Remich
