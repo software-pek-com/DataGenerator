@@ -3,7 +3,6 @@ using DataGenerator.Core;
 using DataGenerator.Extensions;
 using DataGenerator.Generators;
 using DataGenerator.Services;
-using System.Diagnostics.Contracts;
 
 namespace CompanyDataGenerator
 {
